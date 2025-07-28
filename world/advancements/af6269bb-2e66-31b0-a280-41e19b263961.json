@@ -608,6 +608,7 @@
       "apple": "2025-07-01 19:49:00 +0300",
       "bread": "2025-07-01 20:06:56 +0300",
       "cooked_rabbit": "2025-07-01 20:35:59 +0300",
+      "cooked_chicken": "2025-07-28 23:23:05 +0300",
       "cooked_mutton": "2025-07-01 21:58:24 +0300",
       "mushroom_stew": "2025-07-04 22:16:57 +0300",
       "cooked_beef": "2025-07-01 20:54:07 +0300",
@@ -7514,6 +7515,36 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-07-24 22:50:05 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2025-07-28 21:06:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-28 21:26:34 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 21:06:52 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 21:06:52 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2025-07-28 21:06:52 +0300"
     },
     "done": true
   },
