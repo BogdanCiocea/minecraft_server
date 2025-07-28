@@ -7499,9 +7499,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
+  "minecraft:adventure/who_needs_rockets": {
     "criteria": {
-      "has_redstone_block": "2025-07-24 22:50:05 +0300"
+      "who_needs_rockets": "2025-07-24 21:36:27 +0300"
     },
     "done": true
   },
@@ -7511,9 +7511,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "who_needs_rockets": "2025-07-24 21:36:27 +0300"
+      "has_redstone_block": "2025-07-24 22:50:05 +0300"
     },
     "done": true
   },
