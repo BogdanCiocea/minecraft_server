@@ -7524,12 +7524,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-07-28 21:26:34 +0300"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
     "criteria": {
       "has_raw_silver": "2025-07-28 21:06:52 +0300"
@@ -7545,6 +7539,12 @@
   "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
     "criteria": {
       "has_raw_silver": "2025-07-28 21:06:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-28 21:26:34 +0300"
     },
     "done": true
   },
