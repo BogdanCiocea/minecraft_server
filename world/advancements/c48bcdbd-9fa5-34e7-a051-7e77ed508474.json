@@ -13175,5 +13175,17 @@
     },
     "done": true
   },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-07-29 20:36:24 +0300"
+    },
+    "done": true
+  },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2025-07-29 20:48:44 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
